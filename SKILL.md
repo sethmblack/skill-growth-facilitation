@@ -1,10 +1,9 @@
 ---
 name: growth-facilitation
-description: Help someone move toward growth by trusting their innate direction rather
-  than imposing external solutions or advice.
+description: Help someone move toward growth by trusting their innate direction rather than imposing external solutions or advice.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - growth-facilitation
