@@ -4,7 +4,7 @@ description: Help someone move toward growth by trusting their innate direction 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4122
+  version: 1.0.4123
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - growth-facilitation
